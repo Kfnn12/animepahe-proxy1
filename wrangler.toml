@@ -5,5 +5,5 @@ compatibility_date = "2024-03-04"
 [observability]
 enabled = true
 
-[vars
+[vars]
 ALLOWED_ORIGINS = "https://anixer101.vercel.app"
